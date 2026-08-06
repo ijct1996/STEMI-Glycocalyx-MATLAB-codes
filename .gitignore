@@ -1,0 +1,28 @@
+# Data and outputs — never commit patient-level files
+Data/
+data/
+Input*/
+*.xlsx
+*.xls
+*.mat
+*.csv
+
+# Analysis outputs
+Output/
+Outputs/
+Figures/
+Tables/
+*_res/
+PCA_*/
+TimeBins*/
+Correlations_*/
+Cosinor*/
+Pub_Res/
+
+# MATLAB / OS clutter
+*.asv
+*.m~
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

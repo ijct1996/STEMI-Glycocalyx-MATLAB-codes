@@ -1,0 +1,18 @@
+{
+  "stemiFile": "",
+  "outputFolder": "",
+  "setLabel": "core8",
+  "timeCol": "Time (hh:mm)",
+  "ageCol": "",
+  "sexCol": "",
+  "dataCols": [
+    "Cortical Stiffness (pN/nm)",
+    "eGC Height (nm)",
+    "eGC Stiffness (pN/nm)",
+    "Syndecan-1 (ng/mL)",
+    "C3a (ng/mL)",
+    "C5a (ng/mL)",
+    "Discharge (Days)",
+    "Ejection Fraction (%)"
+  ]
+}

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite the associated manuscript."
+title: "Time-of-day glycocalyx nanomechanics in STEMI"
+type: software
+authors:
+  - family-names: Ting
+    given-names: Isaiah J.
+    email: isaiah.ting@uni-luebeck.de
+    affiliation: "University of Luebeck, Institute of Physiology"
+  - family-names: Fels
+    given-names: Benedikt
+  - family-names: Kusche
+    given-names: Kristina
+  - family-names: Vahldieck
+    given-names: Carl
+keywords:
+  - ST-elevation myocardial infarction
+  - endothelial glycocalyx
+  - complement
+  - cosinor
+  - time-of-day
+  - MATLAB
+license: MIT
+repository-code: "https://github.com/REPLACE_WITH_YOUR_GITHUB_USERNAME/REPLACE_WITH_REPO_NAME"
+abstract: >
+  MATLAB analysis scripts for time-of-day analyses of endothelial glycocalyx
+  nanomechanics and complement activation in STEMI (time-bin box plots,
+  24 h cosinor, PCA, and Spearman correlations). Patient-level data are not
+  included; see the manuscript Data Availability statement.
