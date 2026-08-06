@@ -21,7 +21,7 @@ keywords:
   - time-of-day
   - MATLAB
 license: MIT
-repository-code: "https://github.com/REPLACE_WITH_YOUR_GITHUB_USERNAME/REPLACE_WITH_REPO_NAME"
+repository-code: https://github.com/ijct1996/STEMI-Glycocalyx-MATLAB-codes.git
 abstract: >
   MATLAB analysis scripts for time-of-day analyses of endothelial glycocalyx
   nanomechanics and complement activation in STEMI (time-bin box plots,
