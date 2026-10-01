@@ -125,22 +125,3 @@ Example fields in `config/publication_core8.json`:
 
 Headers must match the workbook **exactly** (including units in parentheses).
 
----
-
-## Data availability (for the manuscript)
-
-After you create the public GitHub repository, replace the URL:
-
-> Analysis code (MATLAB) used to generate the time-of-day figures and statistical tables is available at https://github.com/ijct1996/STEMI-Glycocalyx-MATLAB-codes.git. Patient-level raw data are subject to institutional data governance and ethics restrictions and are available from the corresponding author upon reasonable request, as described previously for the source cohort.
-
----
-
-## What is not included
-
-- Patient-level Excel / raw data  
-
----
-
-## License
-
-MIT — see [`LICENSE`](LICENSE).
