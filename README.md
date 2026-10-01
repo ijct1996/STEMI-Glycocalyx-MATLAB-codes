@@ -2,7 +2,7 @@
 
 MATLAB code for the manuscript on time-of-day variation in complement activation and endothelial glycocalyx nanomechanics in ST-elevation myocardial infarction (STEMI).
 
-**Patient-level data are not included** (ethics / institutional data-governance restrictions). Use your own STEMI Excel workbook with matching column headers.
+**Patient-level data are not included** (ethics / institutional data-governance restrictions). 
 
 ---
 
